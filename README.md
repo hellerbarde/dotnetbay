@@ -1,5 +1,5 @@
 # dotnetbay - A .NET Auction Solution 
-Master: [![Build status](https://ci.appveyor.com/api/projects/status/qp7ueees06ri8agu?svg=true)](https://ci.appveyor.com/project/michaelschnyder/fhnw-dotnetbay)
+Master: [![Build status](https://ci.appveyor.com/api/projects/status/22imwvn7om74roa5?svg=true)](https://ci.appveyor.com/project/hellerbarde/dotnetbay)
 
 A bootstrap solution to build your own basic auction portal
 
