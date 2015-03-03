@@ -30,7 +30,7 @@ Title="MainWindow" Height="1024" Width="768">
                 <DataGridTemplateColumn Header="Place Bid">
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
-                            <Button Content="Place Bid" Background="Green" Visibility="{Binding Path=DataContext.IsClosed, RelativeSource={RelativeSource AncestorType=DataGridRow},Converter={StaticResource BoolToVis}}">
+                            <Button Content="Place Bid" Background="LimeGreen" Visibility="{Binding Path=DataContext.IsClosed, RelativeSource={RelativeSource AncestorType=DataGridRow},Converter={StaticResource BoolToVis}}">
                             </Button>
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>
